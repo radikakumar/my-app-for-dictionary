@@ -13,7 +13,7 @@ function App() {
       <main>
         <Dictionary />
       </main>
-     
+    
       </header>
     </div>
   
